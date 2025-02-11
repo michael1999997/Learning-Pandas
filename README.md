@@ -1,4 +1,5 @@
 Learning Pandas
 Creating Reading and Writing
 DataFrame and Series
-CSV
+CSV-comma seperated files, 
+Learning indexing in pandas loc and iloc
